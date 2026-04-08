@@ -22,7 +22,7 @@ A Google e a Samsung utilizaram cerca de 10GB de logs enviados em fevereiro para
 
 ### [EVIDÊNCIAS DISPONÍVEIS]
 Acesse o repositório de logs e hashes de integridade:
-👉 **[Dossiê Completo - Google Drive](https://drive.google.com/drive/folders/1S5BTn5KxTmDEgrkjr2pIk3xanL05C9PG)**
+👉 **[Dossiê Completo - Google Drive](https://drive.google.com/drive/folders/1_qburehzkSJ0ubzArni3LviwxU3_Yvwe)**
 
 --- https://drive.google.com/drive/folders/1S5BTn5KxTmDEgrkjr2pIk3xanL05C9PG
 
